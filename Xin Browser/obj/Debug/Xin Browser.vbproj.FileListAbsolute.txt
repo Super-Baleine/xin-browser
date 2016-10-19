@@ -1,0 +1,75 @@
+c:\users\anschaire\documents\visual studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Xin Browser.exe.config
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Xin Browser.exe
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Xin Browser.pdb
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Xin Browser.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\MdiTabControl.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.Resources.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin Browser.vbproj.GenerateResource.Cache
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin Browser.exe
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin Browser.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin Browser.pdb
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.Onglet.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.Principal.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Awesomium.Core.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Awesomium.Core.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\awesomium.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\icudt.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\avcodec-53.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\avformat-53.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\avutil-51.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\libEGL.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\libGLESv2.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\awesomium_process
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\inspector.pak
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\bin\Debug\xinput9_1_0.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.FavAdding.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.DownloadForm.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.FavList.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.FileDownload.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.HistList.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.JSAlertPopUp.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.LoginRequestForm.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Xin Browser.exe.config
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.exe
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.pdb
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Xin Browser.exe
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Xin Browser.pdb
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Xin Browser.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Awesomium.Core.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\awesomium.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\icudt.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\avcodec-53.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\avformat-53.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\avutil-51.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\libEGL.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\libGLESv2.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\awesomium_process
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\inspector.pak
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\xinput9_1_0.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.DownloadForm.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.FavAdding.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.FavList.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.FileDownload.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.HistList.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.JSAlertPopUp.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.LoginRequestForm.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.Onglet.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.Principal.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin_Browser.Resources.resources
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.vbproj.GenerateResource.Cache
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.vbproj.ResolveComReference.cache
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Anschaire\Documents\Visual Studio 2012\Projects\Xin Browser\Xin Browser\Xin Browser\obj\Debug\Xin Browser.exe.licenses

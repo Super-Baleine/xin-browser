@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5C33D51-B959-4C3F-A9A8-0E13A7CC4671}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Xin_Browser.My.MyApplication</StartupObject>
+    <RootNamespace>Xin_Browser</RootNamespace>
+    <AssemblyName>Xin Browser</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Xin Browser.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Xin Browser.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>xin browser new logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Awesomium.Core, Version=1.7.4.2, Culture=neutral, PublicKeyToken=e1a0d7c8071a5214" />
+    <Reference Include="Awesomium.Windows.Forms, Version=1.7.4.2, Culture=neutral, PublicKeyToken=9bd24830fbe304a0, processorArchitecture=x86" />
+    <Reference Include="MdiTabControl">
+      <HintPath>..\..\..\..\..\Downloads\MdiTabControl\MdiTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChromeTheme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CornerCurveMode.vb" />
+    <Compile Include="CustomPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DownloadForm.Designer.vb">
+      <DependentUpon>DownloadForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DownloadForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FavAdding.Designer.vb">
+      <DependentUpon>FavAdding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FavAdding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FavList.Designer.vb">
+      <DependentUpon>FavList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FavList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileDownload.Designer.vb">
+      <DependentUpon>FileDownload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FileDownload.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HistList.Designer.vb">
+      <DependentUpon>HistList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HistList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JSAlertPopUp.Designer.vb">
+      <DependentUpon>JSAlertPopUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JSAlertPopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LinearGradientMode.vb" />
+    <Compile Include="LoginRequestForm.Designer.vb">
+      <DependentUpon>LoginRequestForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginRequestForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Onglet.Designer.vb">
+      <DependentUpon>Onglet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Onglet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xin Browser Orange Theme.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DownloadForm.resx">
+      <DependentUpon>DownloadForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FavAdding.resx">
+      <DependentUpon>FavAdding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FavList.resx">
+      <DependentUpon>FavList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileDownload.resx">
+      <DependentUpon>FileDownload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistList.resx">
+      <DependentUpon>HistList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JSAlertPopUp.resx">
+      <DependentUpon>JSAlertPopUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginRequestForm.resx">
+      <DependentUpon>LoginRequestForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Onglet.resx">
+      <DependentUpon>Onglet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="xin browser new logo.ico" />
+    <Content Include="XinBrowser_Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
